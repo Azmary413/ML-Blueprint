@@ -1,1 +1,1 @@
-## MAchine Learning Blueprint
+## Machine Learning Blueprint
